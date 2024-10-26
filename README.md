@@ -9,3 +9,7 @@
 - Recommender System Included 
 - Guides Customer throughout the entire order procedure. 
 - Blocks irrelevant or harmful queries using a Guard Agent for Safe and Relevant Instructions
+
+## Architecture Plan: 
+![Architecture Diagram](./Architecture.png)
+
